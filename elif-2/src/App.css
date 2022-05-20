@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header-container {
+  background-color: red;
+  height: 70px;
+}
+.main-container {
+  background-color: forestgreen;
+  min-height: 100vh;
+}
+.footer-container {
+  background-color: dodgerblue;
+  height: 70px;
+}
+.profile-container {
+  margin: 20px;
+  background-color: aqua;
+}
+.form-container {
+  margin: 20px;
+  background-color: orange;
+}
+button {
+  border: none;
+  padding: 5px 10px;
+  border-radius: 8px;
+  background-color: bisque;
+  margin-left: 20px;
+}

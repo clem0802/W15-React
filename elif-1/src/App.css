@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header-container {
+  background-color: red;
+  height: 70px;
+}
+.main-container {
+  background-color: forestgreen;
+  min-height: 100vh;
+}
+.footer-container {
+  background-color: dodgerblue;
+  height: 70px;
+}
